@@ -8,7 +8,6 @@ Automated Braking System for vehicles.
 <li>2 DC Motors
 <li>Batteries
 </ul>
-  <br>*Coded with C Language*
 
 ## Pin Connections
 | Microcontroller  |  Ultrasonic | LCD  | L293D   |
